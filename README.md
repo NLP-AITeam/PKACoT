@@ -1,5 +1,5 @@
 # Source Code of PKACoT for Multimodal Entity and Relation Extraction
-Official Implementation of our Paper（PKACoT: Leveraging Chain-of-Thought and Augmented Knowledge via Information Bottleneck for Multimodal Entity and Relation Extraction (Authors:  Wei Shea, Yongkang Yang, Lihong Zhong, Bin Wang and Wei Liu).
+Official Implementation of our Paper（PKACoT: Leveraging Chain-of-Thought and Augmented Knowledge via Information Bottleneck for Multimodal Entity and Relation Extraction (Authors:  Wei She, Yongkang Yang, Lihong Zhong, Bin Wang and Wei Liu).
 
 ## Required Environment
 To run the codes, you need to install the requirements for NER or RE. 
